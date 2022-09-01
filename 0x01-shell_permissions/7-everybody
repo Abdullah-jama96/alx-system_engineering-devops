@@ -1,0 +1,5 @@
+#!/bin/bash
+chomod ugo+x
+
+ #!/bin/bash
+ chmod ugo+x 
